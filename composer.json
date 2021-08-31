@@ -9,6 +9,7 @@
             "email": "676050059@qq.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1.0",
         "qcloud/cos-sdk-v5": ">=2.0",
