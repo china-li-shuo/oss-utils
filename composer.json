@@ -1,5 +1,5 @@
 {
-    "name": "china-li-shuo/oss-sdk",
+    "name": "lishuo/oss-sdk",
     "description": "Alibaba cloud, Tencent cloud, qiniu cloud, object storage",
     "type": "library",
     "license": "MIT",
