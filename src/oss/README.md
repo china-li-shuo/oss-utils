@@ -22,9 +22,9 @@ use lishuo\oss\storage\StorageConfig;
     $storage->get(10); // 指定查看10条
     // 上传文件
     $path = "./test.jpg";
-    $result = $this->storage->put("test.jpg", $path);
+    $result = $storage->put("test.jpg", $path);
     // 删除文件
     $keys = ['test.jpg'];
-    $result = $this->storage->delete($keys);
+    $result = $storage->delete($keys);
 ```
 
