@@ -6,15 +6,15 @@
  * Time: 15:59
  */
 
-namespace lishuo\src\oss;
+namespace lishuo\oss;
+
+use lishuo\oss\exception\NonsupportStorageTypeException;
+use lishuo\oss\storage\aliyun\Aliyun;
+use lishuo\oss\storage\qiniu\Qiniu;
+use lishuo\oss\storage\tencent\Tencent;
 
 class Manager
 {
-
-    public function index()
-    {
-        return 'hello world';
-    }
 
     /**
      * 获取指定云存储实例

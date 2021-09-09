@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/oss-sdk.iml" filepath="$PROJECT_DIR$/.idea/oss-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web-utils-master/.idea/web-utils-master.iml" filepath="$PROJECT_DIR$/../web-utils-master/.idea/web-utils-master.iml" />
     </modules>
   </component>
 </project>
