@@ -4,13 +4,17 @@
 
 An SDK integrating Alibaba cloud, Tencent cloud and qiniu cloud object storage
 
-超级快速使用阿里云OSS或腾讯COS获取、放置、删除对象
+超级快速使用阿里云OSS或腾讯COS及七牛云Koa获取、放置、删除对象
 
-Supper quick use Aliyun OSS or Tencent COS to get、put、delete Object.
+Supper quick use Aliyun OSS or Tencent COS or Qiniu Koa to get、put、delete Object.
 
 ## Installation
 
-`composer require china-li-shuo/oss-sdk`
+```php
+
+composer require china-li-shuo/oss-sdk
+
+```
 
 ## example
 
