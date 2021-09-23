@@ -13,7 +13,8 @@ Supper quick use Aliyun OSS or Tencent COS or Qiniu Koa to get、put、delete Ob
 ```php
 
 composer require china-li-shuo/oss-sdk
-
+or
+composer require china-lishuo/oss-utils
 ```
 
 ## example
