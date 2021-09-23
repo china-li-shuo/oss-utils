@@ -1,5 +1,5 @@
 {
-    "name": "lishuo/oss-utils",
+    "name": "china-lishuo/oss-utils",
     "description": "Alibaba cloud, Tencent cloud, qiniu cloud, object storage",
     "homepage": "https://github.com/china-li-shuo/oss-sdk",
     "type": "library",
