@@ -1,6 +1,6 @@
-# oss-sdk
+# oss-utils
 
-一个集成阿里云、腾讯云、七牛云对象存储的SDK
+一个集成阿里云、腾讯云、七牛云对象存储的工具类
 
 An SDK integrating Alibaba cloud, Tencent cloud and qiniu cloud object storage
 
