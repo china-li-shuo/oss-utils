@@ -1,6 +1,6 @@
 {
     "name": "china-lishuo/oss-utils",
-    "description": "Alibaba cloud, Tencent cloud, qiniu cloud, object storage",
+    "description": "Supper quick use Aliyun OSS or Tencent COS or Qiniu Koa to get、put、delete Object.",
     "homepage": "https://github.com/china-li-shuo/oss-utils",
     "type": "library",
     "license": "MIT",
