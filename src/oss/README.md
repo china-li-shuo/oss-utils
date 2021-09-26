@@ -11,8 +11,10 @@ Supper quick use [Aliyun OSS](https://www.aliyun.com/product/oss) or [Tencent CO
 use lishuo\oss\Manager;
 use lishuo\oss\storage\StorageConfig;
 
-    // string $appId, string $appKey, string $region
-    //string $region 地域名、比如阿里云上海为例（http://oss-cn-shanghai.aliyuncs.com）其它Region请按实际情况填写。
+    // 参数1：string $appId
+    // 参数2：string $appKey
+    // 参数3：string $region 地域名、比如（1）阿里云上海为例（http://oss-cn-shanghai.aliyuncs.com）（2）腾讯云上海为例（sh）直接地域名首字母即可（3）其它Region请按实际情况填写。
+    
     $config = new StorageConfig("控制台查看获取", "控制台查看获取", "七牛云不需要配置这个参数，留空字符串");
 
     $storage = Manager::storage("云存储厂商") // 阿里云：aliyun、腾讯云：tencent、七牛云：qiniu
